@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: "Playfair", serif;
+}
+
+.page-header_container,
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1230px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
